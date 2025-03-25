@@ -1,0 +1,5 @@
+{
+  "category.daycounter": "DayCounter HUD",
+  "key.daycounter.toggleDay": "Toggle Day HUD",
+  "key.daycounter.toggleFPS": "Toggle FPS HUD"
+}
